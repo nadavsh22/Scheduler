@@ -1,0 +1,16 @@
+mfocshaner ,nadavsh22
+EX: 2
+
+FILES:
+uthreads.cpp -- the implementation of uthreds functions
+Thread.h -- header for thread class
+Thread.cpp -- implementation of thread Object class 
+Scheduler.h -- header for Scheduler class
+Scheduler.cpp -- implementation of Scheduler Object class
+Make
+
+REMARKS:
+Uthreads is implemented using a scheduler object, which is responsible of the management of threads, 
+Thread is an object, created and controlled by Scheduler.
+
+
